@@ -8,11 +8,26 @@ body {
 
 #hero-section {
   background-color: #1F2937;
+  padding: 0 200px;
+}
+
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
 }
 
 #logo {
   font-size: 24px;
   color: #f9faf8;
+}
+
+#navbar ul {
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
 }
 
 #navbar li {
