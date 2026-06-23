@@ -5,3 +5,22 @@ body {
   margin: 0;
   padding: 0;
 }
+
+#hero-section {
+  background-color: #1F2937;
+}
+
+#logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+#navbar li {
+  list-style: none;
+}
+
+#navbar li a {
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration: none;
+}
