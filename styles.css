@@ -147,3 +147,10 @@ main .info-title {
   border-radius: 5px;
   padding: 10px 20px;
 }
+
+footer {
+  background-color: #1F2937;
+  color: #f9faf8;
+  text-align: center;
+  padding: 20px 0;
+}
