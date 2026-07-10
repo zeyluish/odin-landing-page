@@ -75,3 +75,29 @@ body {
   height: auto;
   margin-left: 50px;
 }
+
+main h2 {
+  text-align: center;
+  font-size: 36px;
+  color: #1F2937;
+  margin: 30px 0;
+}
+
+.info-section {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0 200px 50px;
+}
+
+.info-box {
+  border: 3px solid #3882F6;
+  border-radius: 8px;
+  width: 150px;
+  height: 150px;
+}
+
+.info-text {
+  width: 150px;
+  text-align: center;
+}
