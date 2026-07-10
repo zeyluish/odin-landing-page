@@ -101,3 +101,22 @@ main h2 {
   width: 150px;
   text-align: center;
 }
+
+.quote-section {
+  background-color: #e5e7eb;
+  padding: 50px 200px;
+}
+
+.quote-section .quote {
+  color: #1F2937;
+  font-size: 36px;
+  font-weight: 300;
+  margin: 0 auto;
+}
+
+.quote-section .author {
+  color: #1F2937;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: end;
+}
