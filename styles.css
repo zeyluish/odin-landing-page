@@ -76,7 +76,7 @@ body {
   margin-left: 50px;
 }
 
-main h2 {
+main .info-title {
   text-align: center;
   font-size: 36px;
   color: #1F2937;
@@ -119,4 +119,31 @@ main h2 {
   font-size: 24px;
   font-weight: 700;
   text-align: end;
+}
+
+.cta-content {
+  background-color: #3882F6;
+  margin: 50px 150px;
+  padding: 20px 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cta-content h2 {
+  color: #f9faf8;
+  font-size: 24px;
+}
+
+.cta-content p {
+  color: #f9faf8;
+  font-size: 18px;
+}
+
+.cta-button button {
+  background-color: #3882F6;
+  color: #f9faf8;
+  border: 2px solid #f9faf8;
+  border-radius: 5px;
+  padding: 10px 20px;
 }
